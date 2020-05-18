@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="mylaptop" name="Udemypractice.AppiumTest" tests="6" failures="0" timestamp="25 Apr 2020 14:37:10 GMT" time="0.031" errors="0">
+  <testcase name="BrowserAutomation" time="0.015" classname="Udemypractice.SeleniumTest"/>
+  <testcase name="elementsUi" time="0.0" classname="Udemypractice.SeleniumTest"/>
+  <testcase name="deleteTwitter" time="0.0" classname="Udemypractice.RestApiTest"/>
+  <testcase name="postJira" time="0.0" classname="Udemypractice.RestApiTest"/>
+  <testcase name="IosApps" time="0.0" classname="Udemypractice.AppiumTest"/>
+  <testcase name="NativeAndroid" time="0.0" classname="Udemypractice.AppiumTest"/>
+</testsuite>

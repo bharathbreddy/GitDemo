@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="mylaptop" name="Udemypractice.AppiumTest" tests="2" failures="0" timestamp="25 Apr 2020 14:13:18 GMT" time="0.031" errors="0">
+  <testcase name="IosApps" time="0.016" classname="Udemypractice.AppiumTest"/>
+  <testcase name="NativeAndroid" time="0.0" classname="Udemypractice.AppiumTest"/>
+</testsuite>

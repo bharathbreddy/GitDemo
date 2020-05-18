@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31" started-at="2020-04-25T15:37:10Z" finished-at="2020-04-25T15:37:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="31" started-at="2020-04-25T15:37:10Z" finished-at="2020-04-25T15:37:10Z">
+      <class name="Udemypractice.AppiumTest">
+        <test-method status="PASS" signature="NativeAndroid()" name="NativeAndroid" duration-ms="0" started-at="2020-04-25T15:37:10Z" finished-at="2020-04-25T15:37:10Z">
+        </test-method>
+        <test-method status="PASS" signature="IosApps()" name="IosApps" duration-ms="0" started-at="2020-04-25T15:37:10Z" finished-at="2020-04-25T15:37:10Z">
+        </test-method>
+      </class>
+      <class name="Udemypractice.RestApiTest">
+        <test-method status="PASS" signature="deleteTwitter()" name="deleteTwitter" duration-ms="0" started-at="2020-04-25T15:37:10Z" finished-at="2020-04-25T15:37:10Z">
+        </test-method>
+        <test-method status="PASS" signature="postJira()" name="postJira" duration-ms="0" started-at="2020-04-25T15:37:10Z" finished-at="2020-04-25T15:37:10Z">
+        </test-method>
+      </class>
+      <class name="Udemypractice.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()" name="BrowserAutomation" duration-ms="15" started-at="2020-04-25T15:37:10Z" finished-at="2020-04-25T15:37:10Z">
+        </test-method>
+        <test-method status="PASS" signature="elementsUi()" name="elementsUi" duration-ms="0" started-at="2020-04-25T15:37:10Z" finished-at="2020-04-25T15:37:10Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
