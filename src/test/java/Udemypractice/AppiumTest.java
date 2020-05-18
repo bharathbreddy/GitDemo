@@ -9,6 +9,12 @@ public class AppiumTest {
 		System.out.println("NativeAndroid");
 		System.out.println("checkdevelopApps");
 	}
+	@Test
+	public void GITXNativeAndroid()
+	{
+		System.out.println("NativeAndroid");
+		System.out.println("checkdevelopApps");
+	}
 @Test
 public void IosApps()
 {

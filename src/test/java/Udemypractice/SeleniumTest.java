@@ -14,6 +14,11 @@ public class SeleniumTest {
 		System.out.println("BrowserAutomation3");
 		System.out.println("postGitx1");
 	}
+	@Test
+	public void gitxelementsUi()
+	{
+		System.out.println("elementsUi");
+	}
 @Test
 public void elementsUi()
 {
