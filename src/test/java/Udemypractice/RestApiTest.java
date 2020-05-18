@@ -19,12 +19,14 @@ public class RestApiTest {
 		System.out.println("postGitdemo1");
 		//// the below statement is worked in gitX
 		System.out.println("postGitx1");
-
-
-
-	}
+		}
 @Test
 public void deleteTwitter()
+{
+	System.out.println("deleteTwitter");
+}
+@Test
+public void develpdeleteTwitter()
 {
 	System.out.println("deleteTwitter");
 }
