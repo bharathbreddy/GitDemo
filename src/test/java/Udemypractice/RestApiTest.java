@@ -17,6 +17,8 @@ public class RestApiTest {
 		System.out.println("postJira2");
 		System.out.println("postJira3");
 		System.out.println("postGitdemo1");
+		//// the below statement is worked in gitX
+		System.out.println("postGitx1");
 
 
 
